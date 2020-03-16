@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "447691892961",
+    "firebase_url": "https://gomumbai-e0ed6.firebaseio.com",
+    "project_id": "gomumbai-e0ed6",
+    "storage_bucket": "gomumbai-e0ed6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447691892961:android:2d81e7fb39dc4e69",
+        "android_client_info": {
+          "package_name": "com.example.sahildhatrak.travelguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447691892961-qpeh1j8vrf9g6qo3o730kbc21riqkb8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBymeWkUj7qC68QVTJQCL9boLL4vdZzhy4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
